@@ -1,7 +1,7 @@
 # MachineLearning
 <hr/>
 <h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Data%20Preprocessing"> Data Preprocessing </a></h3>
-<ol>
+<p>Steps for perfrming Data Preprocessing:<ol>
   <li> Importing the libraries </li>
   <li> Importing Dataset</li>
   <li> Handling the missing data in Dataset</li>
@@ -12,7 +12,7 @@
     </ul>
   <li> Split, Train and Test </li>
   <li> Feature Scaling</li>
-</ol>
+</ol></p>
 <br/>
 <hr/>
 <h3>REGRESSION</h3>
