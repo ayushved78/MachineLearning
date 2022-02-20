@@ -36,7 +36,7 @@
   <li> Training SLR over the Training Set</li>
   <li> Predicting the Test Results (FIT)</li>
   <li> Visualisation of Training Set Data (PYPLOT)</li>
-  <li> Visualisation og Testing Set (PYPLOT)</li>
+  <li> Visualisation of Testing Set (PYPLOT)</li>
 </ol></p>
 <hr/>
 <h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Multiple%20Linear%20Regression"> Multiple Linear Regression </a></h3>
@@ -68,5 +68,28 @@
   <li> Splitting the Training and Testing data</li>
   <li> Training MLR over the Training Set</li>
   <li> Predicting the Test Results (FIT)</li>
+</ol></p>
+<hr/>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Simple%20Linear%20Regression"> Polynomial Linear Regression </a></h3>
+<p> Same like the Linear Regression but with a better prediction over salary</p>
+<p><strong>equation:</strong> <em> y = b0 + b1 * x1 + b2 * x1 ^ 2 + b3 * x1 ^ 3 + b4 * x1 ^ 4 + .... + bn * x1 ^ n </em></p>
+<p>where,</p>
+    b0 -> constant,
+    b1,b2,b3,....,bn -> coefficient,
+    x1  -> independent variable,
+    y  -> dependent variable
+</p>
+<br/>
+<p> Steps to perform SLR:
+<ol>
+  <li> Importing the libraries </li>
+  <li> Importing the Dataset</li>
+  <li> Training Linear Regression over dataset (linear_model | LinearRegression)</li>
+  <li> Training Polynomial Regression over dataset (preprocessing | PolynomialFeatures)</li>
+  <li> Visualisation of LR result (PYPLOT)</li>
+  <li> Visualisation of PR result (PYPLOT)</li>
+  <li> Visualisation of PR result for  higher resolution(PYPLOT)</li>
+  <li> Predicting new LR result (will be low)</li>
+  <li> Predicting new PR result (more accurate and better)</li>
 </ol></p>
 <hr/>
