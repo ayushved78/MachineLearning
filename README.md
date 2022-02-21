@@ -1,6 +1,6 @@
 # MachineLearning
 <hr/>
-<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Data%20Preprocessing"> Data Preprocessing </a></h3>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/1.%20Data%20Preprocessing"> Data Preprocessing </a></h3>
 <p>Steps for perfrming Data Preprocessing:<ol>
   <li> Importing the libraries </li>
   <li> Importing Dataset</li>
@@ -18,7 +18,7 @@
 <h3>REGRESSION</h3>
 <p>The branch of Machine Learning which aims over prediction of continuous data/numbers.</p>
 <hr/>
-<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Simple%20Linear%20Regression"> Simple Linear Regression </a></h3>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/2.%20Simple%20Linear%20Regression"> Simple Linear Regression </a></h3>
 <p> Used for data having only one feature (I.D)</p>
 <p><strong>equation:</strong> <em> y = b0 + b1 * x </em></p>
 <p>where,</p>
@@ -39,7 +39,7 @@
   <li> Visualisation of Testing Set (PYPLOT)</li>
 </ol></p>
 <hr/>
-<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Multiple%20Linear%20Regression"> Multiple Linear Regression </a></h3>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/3.%20Multiple%20Linear%20Regression"> Multiple Linear Regression </a></h3>
 <p> Used for data having more than one feature (I.D)</p>
 <p><strong>equation:</strong> <em> y = b0 + b1*x1 + b2*x2 + b3*x3 +......+ bn*xn</em></p>
 <p>where,</p>
@@ -70,7 +70,7 @@
   <li> Predicting the Test Results (FIT)</li>
 </ol></p>
 <hr/>
-<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/Simple%20Linear%20Regression"> Polynomial Linear Regression </a></h3>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/4.%20Polynomial%20Regression"> Polynomial Linear Regression </a></h3>
 <p> Same like the Linear Regression but with a better prediction over salary</p>
 <p><strong>equation:</strong> <em> y = b0 + b1 * x1 + b2 * x1 ^ 2 + b3 * x1 ^ 3 + b4 * x1 ^ 4 + .... + bn * x1 ^ n </em></p>
 <p>where,</p>
