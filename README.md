@@ -93,3 +93,16 @@
   <li> Predicting new PR result (more accurate and better)</li>
 </ol></p>
 <hr/>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/5.%20SVR"> Support Vector Regression </a></h3>
+<br/>
+<p> Steps to perform SVR:
+<ol>
+  <li> Importing the libraries </li>
+  <li> Importing the Dataset</li>
+  <li> Feature Scaling</li>
+  <li> Training SVR over dataset (preprocessing | SVR)</li>
+  <li> Predicting SVR result (inverse_transform | predict)</li>
+  <li> Visualisation of SVR result (PYPLOT)</li>
+  <li> Visualisation of SVR result for  higher resolution(PYPLOT)</li>
+</ol></p>
+<hr/>
