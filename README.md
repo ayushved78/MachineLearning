@@ -106,3 +106,25 @@
   <li> Visualisation of SVR result for  higher resolution(PYPLOT)</li>
 </ol></p>
 <hr/>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/5.%20SVR"> Decision Tree Regression </a></h3>
+<br/>
+<p> Steps to perform DTR:
+<ol>
+  <li> Importing the libraries </li>
+  <li> Importing the Dataset</li>
+  <li> Training the DTR over the Dataset</li>
+  <li> Predicting the new result</li>
+  <li> Visualisation of DTR result for higher resolution(PYPLOT)</li>
+</ol></p>
+<hr/>
+<h3>#<a href="https://github.com/ayushved78/MachineLearning/tree/master/5.%20SVR"> Random Forest Regression </a></h3>
+<br/>
+<p> Steps to perform RFR:
+<ol>
+  <li> Importing the libraries </li>
+  <li> Importing the Dataset</li>
+  <li> Training the RFR over the Dataset</li>
+  <li> Predicting the new result</li>
+  <li> Visualisation of DTR result for higher resolution(PYPLOT)</li>
+</ol></p>
+<hr/>
